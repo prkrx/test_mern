@@ -1,0 +1,7 @@
+# ignores folder modules
+node_modules
+
+# ignores all file
+*.json
+
+
